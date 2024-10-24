@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --principal: #0D261A;
+  --secundaria: #592A0E;
+  --cinza-escuro: #8C8480;
+  --cinza-claro: #BFB6B0;
+  --vinho: #401A11;
+}
